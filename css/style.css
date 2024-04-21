@@ -441,12 +441,11 @@ a {
 .slikee2 {
   width: 400px;
   height: 300px;
-  margin-left: 50px;
+  margin-left: 75px;
   margin-top: 50px;
   float: left;
   border: 3px solid #45a29e;
   border-radius: 6px;
-  /*margin-right: 50px;*/
 }
 
 @media (max-width: 1024px) {
